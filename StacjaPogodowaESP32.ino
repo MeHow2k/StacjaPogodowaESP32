@@ -1,3 +1,5 @@
+//Zewnętrzna stacja pogodowa
+//Autorzy: Michał Miksiewicz, Michał Pasieka
 #include "PMS.h"
 #include <SPI.h>
 #include <Wire.h>
@@ -183,7 +185,7 @@ void loop()
             delay(2000);
         }
     }
-    Serial.println("Wybudzanie czujnika, odczekanie 30 sekund na stabilne odczyty...");
+    Serial.println("Wybudzanie czujnika...");
 
     pms.wakeUp(); // Tryb operacyjny czujnika (wybudzenie)
 
