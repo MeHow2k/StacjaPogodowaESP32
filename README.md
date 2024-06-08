@@ -10,4 +10,6 @@ Stacja wykonuje pomiary:
 ESP32 wysyła wyniki pomiarów na serwer MQTT za pośrednictwem WiFi.
 
 <img width="778" alt="schemat" src="https://github.com/MeHow2k/StacjaPogodowaESP32/assets/128099721/41b71383-798c-4093-ba26-a4071357dd5b">
-![image](https://github.com/MeHow2k/StacjaPogodowaESP32/assets/128099721/b3afd880-8b4b-495b-9c95-410a3cd9aa4a)
+
+<img width="778" alt="schemat" src="https://github.com/MeHow2k/StacjaPogodowaESP32/assets/128099721/0adc65cc-2447-4aba-b90e-2575f3a1f5e3">
+
